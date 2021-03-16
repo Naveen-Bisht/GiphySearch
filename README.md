@@ -7,7 +7,8 @@
     <img src="images/giphy.png" alt="Logo" width="600" height="200">
   </a>
 
-  <h3 align="center">Giphy Image Search Tool</h3>
+  <h3 align="center">Giphy Image Search Tool</h3><br/>
+  <a href="https://naveen-bisht.github.io/GiphySearch/">Browse: https://naveen-bisht.github.io/GiphySearch/</a>
 </p>
 
 ## About the Project
