@@ -1,4 +1,5 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/nbisht7/]
+## Naveen Bisht
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## About the Project
 
@@ -36,3 +37,8 @@ Software that will be needed for running the project:
    ```
 4. Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/nbisht7/
