@@ -1,0 +1,51 @@
+.header {
+    background-color: #004980;
+    border: 1px solid #004980;
+    border-radius: 8px;
+    color: blanchedalmond;
+}
+
+.container {
+    padding-top: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.data {
+    padding-top: 10px;
+}
+
+label {
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.inputbox {
+    margin: 5px;
+    border: 2px solid #004980;
+    border-radius: 6px;
+}
+
+.btn {
+    border: 2px solid #004980;
+    border-radius: 6px;
+    background-color: #004980;
+    color: cornsilk;
+}
+
+.data {
+    text-align: center;
+}
+
+a {
+    color: blanchedalmond;
+}
+a:hover {
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+img {
+    border: 1px solid #004980;
+    border-radius: 2px;
+    margin: 8px;
+}
