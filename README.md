@@ -1,6 +1,15 @@
 ## Naveen Bisht
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<br />
+<p align="center">
+  <a href="https://naveen-bisht.github.io/GiphySearch/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Giphy Image Search Tool</h3>
+</p>
+
 ## About the Project
 
 Giphy Search is a serch engine tool for searching giphy images from GIPHY API (https://giphy.com). Source code also include to switch between GIPHY API to PIXABAY API (https://pixabay.com).
