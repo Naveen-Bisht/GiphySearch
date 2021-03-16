@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://naveen-bisht.github.io/GiphySearch/">
-    <img src="images/giphy.png" alt="Logo" width="150" height="200">
+    <img src="images/giphy.png" alt="Logo" width="150" height="800">
   </a>
 
   <h3 align="center">Giphy Image Search Tool</h3>
